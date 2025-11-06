@@ -70,3 +70,6 @@ class Student {
         score -= delta;
     }
 }
+/*Mengapa ini lebih baik dari nomor 1 karena 
+Dengan menghapus setScore() dan menggantinya dengan addScore() 
+serta reduceScore(), pengubahan nilai menjadi lebih terkontrol*/
